@@ -1,10 +1,4 @@
-//
-//  WMFMostReadSectionController.m
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 2/10/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "WMFMostReadSectionController.h"
 #import "Wikipedia-Swift.h"

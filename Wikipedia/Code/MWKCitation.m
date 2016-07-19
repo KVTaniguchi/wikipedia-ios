@@ -1,10 +1,4 @@
-//
-//  MWKCitation.m
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 8/6/15.
-//  Copyright (c) 2015 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "MWKCitation.h"
 #import <hpple/TFHpple.h>

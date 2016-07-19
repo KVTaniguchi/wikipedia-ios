@@ -1,10 +1,4 @@
-//
-//  SavedPageSpotlightManager.swift
-//  Wikipedia
-//
-//  Created by Corey Floyd on 2/19/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 import UIKit
 import MobileCoreServices

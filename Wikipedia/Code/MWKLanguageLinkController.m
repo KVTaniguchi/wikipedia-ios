@@ -1,10 +1,4 @@
-//
-//  MWKLanguageLinkController.m
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 6/17/15.
-//  Copyright (c) 2015 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "MWKLanguageLinkController_Private.h"
 #import "MWKTitle.h"

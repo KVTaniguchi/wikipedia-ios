@@ -1,10 +1,4 @@
-//
-//  WMFExploreSectionCache.m
-//  Wikipedia
-//
-//  Created by Corey Floyd on 1/25/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "WMFExploreSectionControllerCache_Testing.h"
 #import "MWKSite.h"
