@@ -1,3 +1,5 @@
+
+
 #import "UINavigationBar+WMFTransparency.h"
 
 @implementation UINavigationBar (WMFTransparency)

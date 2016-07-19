@@ -1,10 +1,4 @@
-//
-//  UIVIewController+WMFCommonRotationSupport.swift
-//  Wikipedia
-//
-//  Created by Corey Floyd on 4/4/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 import UIKit
 

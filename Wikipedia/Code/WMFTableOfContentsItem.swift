@@ -1,10 +1,4 @@
-//
-//  WMFTableOfContentsItem.swift
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 10/20/15.
-//  Copyright © 2015 Wikimedia Foundation. All rights reserved.
-//
+
 
 import Foundation
 

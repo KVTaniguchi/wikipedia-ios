@@ -1,5 +1,4 @@
 
-import UIKit
 
 // MARK: - Delegate
 @objc public protocol WMFTableOfContentsPresentationControllerTapDelegate {

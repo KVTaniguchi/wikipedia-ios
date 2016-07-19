@@ -1,10 +1,4 @@
-//
-//  WMFFixtureRecording.m
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 8/3/15.
-//  Copyright (c) 2015 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "WMFFixtureRecording.h"
 

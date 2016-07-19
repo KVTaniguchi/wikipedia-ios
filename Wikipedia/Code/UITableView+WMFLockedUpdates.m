@@ -1,10 +1,4 @@
-//
-//  UITableView+WMFLockedUpdates.m
-//
-//
-//  Created by Brian Gerstle on 12/18/15.
-//
-//
+
 
 #import "UITableView+WMFLockedUpdates.h"
 
