@@ -1,10 +1,4 @@
-//
-//  CLLocationManager+WMFLocationManagers.h
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 2/26/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import <CoreLocation/CoreLocation.h>
 

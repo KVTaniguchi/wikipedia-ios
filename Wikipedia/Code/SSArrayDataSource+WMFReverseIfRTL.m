@@ -1,10 +1,4 @@
-//
-//  SSArrayDataSource+WMFReverseIfRTL.m
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 12/8/15.
-//  Copyright © 2015 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "SSArrayDataSource+WMFReverseIfRTL.h"
 #import "NSProcessInfo+WMFOperatingSystemVersionChecks.h"

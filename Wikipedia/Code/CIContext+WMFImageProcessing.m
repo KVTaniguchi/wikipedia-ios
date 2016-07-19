@@ -1,3 +1,5 @@
+
+
 @implementation CIContext (WMFImageProcessing)
 
 + (instancetype)wmf_sharedContext {

@@ -1,12 +1,6 @@
-//
-//  CLLocation+WMFBearing.h
-//  Wikipedia
-//
-//  Created by Brian Gerstle on 9/8/15.
-//  Copyright (c) 2015 Wikimedia Foundation. All rights reserved.
-//
 
-#import <CoreLocation/CoreLocation.h>
+
+@import CoreLocation;
 
 @interface CLLocation (WMFBearing)
 

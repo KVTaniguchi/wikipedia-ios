@@ -1,10 +1,4 @@
-//
-//  WMFRevision.m
-//  Wikipedia
-//
-//  Created by Nick DiStefano on 4/2/16.
-//  Copyright © 2016 Wikimedia Foundation. All rights reserved.
-//
+
 
 #import "WMFPageHistoryRevision.h"
 #import "NSString+WMFExtras.h"
